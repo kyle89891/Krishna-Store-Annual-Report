@@ -1,0 +1,10 @@
+Sample Insights:
+
+*Women are more likely to buy compared to men.
+*Maharashtra, Karnatakaand UP are top 3 states.
+*Adult age group is max contributing on sales.
+*Amazon,Flipkart and Myntra channels are maximum contributing.
+
+Final Conclusion:
+*We have to target women customer of age group (20-50yrs) who living
+in Maharashtra,Karnataka and UP by shopping through Amazon,Flipkart and Myntra.
